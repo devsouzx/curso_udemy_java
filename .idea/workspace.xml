@@ -4,92 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49abf3da-2cb0-49a5-a927-1d333ceb9aff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_java_udemy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/CurrencyDollar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/EmployeeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/ProductVect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Rent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/LIstsExercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/Matriz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/Matriz1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/MembrosEstaticosExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_condicional/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_condicional/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_condicional/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_condicional/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_condicional/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_condicional/Exercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_condicional/Exercise7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_condicional/Exercise8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_repetitiva/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_repetitiva/Exercise10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_repetitiva/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_repetitiva/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_repetitiva/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_repetitiva/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_repetitiva/Exercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_repetitiva/Exercise7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_repetitiva/Exercise8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_repetitiva/Exercise9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_sequencial/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_sequencial/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_sequencial/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_sequencial/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_sequencial/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/estrutura_sequencial/Exercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/poo/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/poo/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/poo/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/vetores/AbaixoDaMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/vetores/Alturas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/vetores/Aprovados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/vetores/DadosPessoais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/vetores/MaiorPosicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/vetores/MaisVelho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/vetores/MediaPares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/vetores/Negativos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/vetores/NumerosPares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/vetores/Pensinato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/vetores/SomaVetor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/vetores/SomaVetores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section10/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section10/Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section10/Vetores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section10/VetoresExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section11/DataHora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section11/Dates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section11/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section1a9/EntradaDeDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section1a9/EstruturasCondicionais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section1a9/EstruturasRepetitivas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section1a9/ExercicioDeFixacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section1a9/Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section1a9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section1a9/MembrosEstaticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section1a9/OutrosTopicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section1a9/application/POO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section1a9/application/ProblemaSemOrientacaoObjeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section1a9/application/ProductsExample.java" afterDir="false" />
+    <list default="true" id="49abf3da-2cb0-49a5-a927-1d333ceb9aff" name="Changes" comment="voltando ao normal">
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/Enumeracao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/entities/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/entities/enums/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/exercise1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/exercise1/entities/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/exercise1/entities/HourContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/exercise1/entities/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/exercise1/entities/enums/WorkerLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/exercise2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/exercise2/entities/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/exercise2/entities/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/exercise3/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/exercise3/entities/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/exercise3/entities/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/exercise3/entities/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/exercise3/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section13/exercise3/entities/enums/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section11/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section11/Exercise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +35,7 @@
       <list>
         <option value="Kotlin Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -108,6 +43,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;joaoemx&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:joaoemx/curso_udemy_java.git&quot;,
+    &quot;accountId&quot;: &quot;5136eec9-9a69-4bf1-b3c4-3130e0de078b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -130,6 +77,7 @@
     "Application.DataHora.executor": "Run",
     "Application.Dates.executor": "Run",
     "Application.EntradaDeDados.executor": "Run",
+    "Application.Enumeracao.executor": "Run",
     "Application.EstruturasRepetitivas.executor": "Run",
     "Application.ExercicioDeFixacao.executor": "Debug",
     "Application.Exercise.executor": "Debug",
@@ -162,6 +110,7 @@
     "Application.Pensinato.executor": "Run",
     "Application.ProblemaSemOrientacaoObjeto.executor": "Run",
     "Application.ProductsExample.executor": "Run",
+    "Application.Program.executor": "Run",
     "Application.SomaVetor.executor": "Run",
     "Application.SomaVetores.executor": "Run",
     "Application.Vetores.executor": "Run",
@@ -169,12 +118,14 @@
     "Application.excercises.estrutura_repetitiva.Exercise1.executor": "Run",
     "Application.excercises.estrutura_repetitiva.Exercise2.executor": "Run",
     "Application.excercises.estrutura_repetitiva.Exercise3.executor": "Run",
+    "Application.sections.section13.exercise2.Program.executor": "Run",
+    "Application.sections.section13.exercise3.Program.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/joaoe/Downloads/projects/JAVA/Udemy Java/curso_progamacao",
     "onboarding.tips.debug.path": "C:/Users/joaoe/Downloads/projects/Udemy Java/curso_progamacao/src/Main.java",
@@ -192,20 +143,7 @@
       <recent name="application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise">
-    <configuration name="DataHora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section11.DataHora" />
-      <module name="curso_java_udemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sections.section11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.sections.section13.exercise3.Program">
     <configuration name="Dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sections.section11.Dates" />
       <module name="curso_java_udemy" />
@@ -219,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section11.Exercise" />
+    <configuration name="Enumeracao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section13.Enumeracao" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sections.section11.*" />
+          <option name="PATTERN" value="sections.section13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excercises.Matriz" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section13.exercise1.Program" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excercises.*" />
+          <option name="PATTERN" value="sections.section13.exercise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +183,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matriz1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excercises.Matriz1" />
+    <configuration name="sections.section13.exercise2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section13.exercise2.Program" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excercises.*" />
+          <option name="PATTERN" value="sections.section13.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sections.section13.exercise3.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section13.exercise3.Program" />
+      <module name="curso_java_udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sections.section13.exercise3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise" />
+        <item itemvalue="Application.sections.section13.exercise3.Program" />
+        <item itemvalue="Application.sections.section13.exercise2.Program" />
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.Dates" />
-        <item itemvalue="Application.DataHora" />
-        <item itemvalue="Application.Matriz1" />
-        <item itemvalue="Application.Matriz" />
+        <item itemvalue="Application.Enumeracao" />
       </list>
     </recent_temporary>
   </component>

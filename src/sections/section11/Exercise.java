@@ -28,6 +28,7 @@ public class Exercise {
     } else {
       System.out.println("You are now " + duration.toDays() / 365);
     }
+
     sc.close();
   }
 }
