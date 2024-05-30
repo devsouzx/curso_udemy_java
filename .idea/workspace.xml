@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49abf3da-2cb0-49a5-a927-1d333ceb9aff" name="Changes" comment="Section 14: Herança e polimorfismo">
-      <change afterPath="$PROJECT_DIR$/src/sections/section17/Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section17/exrecise/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section17/exrecise/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/solucao_problema/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/solucao_problema/entities/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/solucao_problema/entities/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/solucao_problema/entities/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/solucao_problema/services/BrazilTaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/solucao_problema/services/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/solucao_problema/services/TaxService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +25,7 @@
         <option value="Kotlin Class" />
         <option value="JUnit5 Test Class" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,82 +56,83 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AbaixoDaMedia.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Alturas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aprovados.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bank.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassesAbstratas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Construtores.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DadosPessoais.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataHora.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EntradaDeDados.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Enumeracao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstruturasRepetitivas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExercicioDeFixacao.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Exercise.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Exercise1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Files.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Finally.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForEach.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LIstsExercises.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaiorPosicao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaisVelho.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Matriz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Matriz1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MediaPares.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MembrosEstaticos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MembrosEstaticosExercise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Negativos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumerosPares.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OutrosTopicos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.POO.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pensinato.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProblemaSemOrientacaoObjeto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductsExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SomaVetor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SomaVetores.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatch.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Vetores.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VetoresExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.excercises.estrutura_repetitiva.Exercise1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.excercises.estrutura_repetitiva.Exercise2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.excercises.estrutura_repetitiva.Exercise3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sections.section13.exercise2.Program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sections.section13.exercise3.Program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sections.section14.Program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sections.section14.exercise1.Program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sections.section14.exercise2.Program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sections.section15.excecoesPersonalizadas.Program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sections.section15.exercise.Program.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/joaoe/Downloads/projects/JAVA/Udemy Java/curso_progamacao&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/joaoe/Downloads/projects/Udemy Java/curso_progamacao/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbaixoDaMedia.executor": "Run",
+    "Application.Alturas.executor": "Run",
+    "Application.Aprovados.executor": "Run",
+    "Application.Bank.executor": "Run",
+    "Application.ClassesAbstratas.executor": "Run",
+    "Application.Construtores.executor": "Run",
+    "Application.DadosPessoais.executor": "Run",
+    "Application.DataHora.executor": "Run",
+    "Application.Dates.executor": "Run",
+    "Application.EntradaDeDados.executor": "Run",
+    "Application.Enumeracao.executor": "Run",
+    "Application.EstruturasRepetitivas.executor": "Run",
+    "Application.ExercicioDeFixacao.executor": "Debug",
+    "Application.Exercise.executor": "Debug",
+    "Application.Exercise1.executor": "Run",
+    "Application.Exercise10.executor": "Run",
+    "Application.Exercise2.executor": "Run",
+    "Application.Exercise3.executor": "Run",
+    "Application.Exercise4.executor": "Run",
+    "Application.Exercise5.executor": "Run",
+    "Application.Exercise6.executor": "Run",
+    "Application.Exercise7.executor": "Run",
+    "Application.Exercise8.executor": "Run",
+    "Application.Exercise9.executor": "Run",
+    "Application.Files.executor": "Run",
+    "Application.Finally.executor": "Run",
+    "Application.ForEach.executor": "Run",
+    "Application.Functions.executor": "Run",
+    "Application.LIstsExercises.executor": "Run",
+    "Application.Lists.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaiorPosicao.executor": "Run",
+    "Application.MaisVelho.executor": "Run",
+    "Application.Matriz.executor": "Run",
+    "Application.Matriz1.executor": "Run",
+    "Application.MediaPares.executor": "Run",
+    "Application.MembrosEstaticos.executor": "Run",
+    "Application.MembrosEstaticosExercise.executor": "Run",
+    "Application.Negativos.executor": "Run",
+    "Application.NumerosPares.executor": "Run",
+    "Application.OutrosTopicos.executor": "Run",
+    "Application.POO.executor": "Run",
+    "Application.Pensinato.executor": "Run",
+    "Application.ProblemaSemOrientacaoObjeto.executor": "Run",
+    "Application.ProductsExample.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Application.SomaVetor.executor": "Run",
+    "Application.SomaVetores.executor": "Run",
+    "Application.TryCatch.executor": "Debug",
+    "Application.Vetores.executor": "Run",
+    "Application.VetoresExample.executor": "Run",
+    "Application.excercises.estrutura_repetitiva.Exercise1.executor": "Run",
+    "Application.excercises.estrutura_repetitiva.Exercise2.executor": "Run",
+    "Application.excercises.estrutura_repetitiva.Exercise3.executor": "Run",
+    "Application.sections.section13.exercise2.Program.executor": "Run",
+    "Application.sections.section13.exercise3.Program.executor": "Run",
+    "Application.sections.section14.Program.executor": "Run",
+    "Application.sections.section14.exercise1.Program.executor": "Run",
+    "Application.sections.section14.exercise2.Program.executor": "Run",
+    "Application.sections.section15.excecoesPersonalizadas.Program.executor": "Run",
+    "Application.sections.section15.exercise.Program.executor": "Run",
+    "Application.sections.section18.solucao_problema.Program.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/joaoe/Downloads/projects/JAVA/Udemy Java/curso_progamacao",
+    "onboarding.tips.debug.path": "C:/Users/joaoe/Downloads/projects/Udemy Java/curso_progamacao/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -138,26 +144,13 @@
       <recent name="application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.sections.section18.solucao_problema.Program">
     <configuration name="Files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sections.section17.Files" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sections.section17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section15.Finally" />
-      <module name="curso_java_udemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sections.section15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,13 +197,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sections.section18.solucao_problema.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section18.solucao_problema.Program" />
+      <module name="curso_java_udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sections.section18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sections.section18.solucao_problema.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Files" />
         <item itemvalue="Application.sections.section15.exercise.Program" />
         <item itemvalue="Application.sections.section15.excecoesPersonalizadas.Program" />
-        <item itemvalue="Application.Finally" />
       </list>
     </recent_temporary>
   </component>
