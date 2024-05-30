@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49abf3da-2cb0-49a5-a927-1d333ceb9aff" name="Changes" comment="Section 14: Herança e polimorfismo">
-      <change afterPath="$PROJECT_DIR$/src/sections/section18/exercise/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section18/exercise/entities/Contract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section18/exercise/entities/Installment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section18/exercise/services/ContractService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section18/exercise/services/OnlinePaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section18/exercise/services/PayPalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/heranca_mutipla/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/heranca_mutipla/devices/ComboDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/heranca_mutipla/devices/ConcretePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/heranca_mutipla/devices/ConcreteScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/heranca_mutipla/devices/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/heranca_mutipla/devices/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/heranca_mutipla/devices/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/herdar/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/herdar/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/herdar/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/herdar/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section18/herdar/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section14/exercise3/entities/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section14/exercise3/entities/Color.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +31,8 @@
         <option value="Kotlin Class" />
         <option value="JUnit5 Test Class" />
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -118,7 +125,8 @@
     "Application.sections.section14.exercise2.Program.executor": "Run",
     "Application.sections.section15.excecoesPersonalizadas.Program.executor": "Run",
     "Application.sections.section15.exercise.Program.executor": "Run",
-    "Application.sections.section18.exercise.Program.executor": "Debug",
+    "Application.sections.section18.exercise.Program.executor": "Run",
+    "Application.sections.section18.heranca_mutipla.Program.executor": "Run",
     "Application.sections.section18.solucao_problema.Program.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -144,7 +152,7 @@
       <recent name="application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sections.section18.exercise.Program">
+  <component name="RunManager" selected="Application.sections.section18.heranca_mutipla.Program">
     <configuration name="Files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sections.section17.Files" />
       <module name="curso_java_udemy" />
@@ -171,19 +179,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sections.section15.exercise.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section15.exercise.Program" />
-      <module name="curso_java_udemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sections.section15.exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="sections.section18.exercise.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sections.section18.exercise.Program" />
       <module name="curso_java_udemy" />
@@ -197,12 +192,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sections.section18.heranca_mutipla.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section18.heranca_mutipla.Program" />
+      <module name="curso_java_udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sections.section18.heranca_mutipla.devices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sections.section18.solucao_problema.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sections.section18.solucao_problema.Program" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sections.section18.*" />
+          <option name="PATTERN" value="sections.section18.herdar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sections.section18.heranca_mutipla.Program" />
         <item itemvalue="Application.sections.section18.exercise.Program" />
         <item itemvalue="Application.sections.section18.solucao_problema.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Files" />
-        <item itemvalue="Application.sections.section15.exercise.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -271,46 +279,6 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="2" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sections/section18/exercise/services/ContractService.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sections/section18/exercise/services/ContractService.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sections/section18/exercise/services/ContractService.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sections/section18/exercise/services/ContractService.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sections/section18/exercise/services/ContractService.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sections/section18/exercise/services/ContractService.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sections/section18/exercise/services/ContractService.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sections/section18/exercise/services/ContractService.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
