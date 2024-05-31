@@ -1,6 +1,6 @@
 package sections.section1a9;
 
-import entities.Calculator;
+import sections.section1a9.entities.Calculator;
 
 import java.util.Locale;
 import java.util.Scanner;

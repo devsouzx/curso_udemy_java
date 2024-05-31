@@ -1,6 +1,6 @@
 package sections.section1a9.application;
 
-import entities.Triangle;
+import sections.section1a9.entities.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;

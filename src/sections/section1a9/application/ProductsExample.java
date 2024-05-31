@@ -1,6 +1,6 @@
 package sections.section1a9.application;
 
-import entities.Product;
+import sections.section1a9.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;
