@@ -5,12 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49abf3da-2cb0-49a5-a927-1d333ceb9aff" name="Changes" comment="Section 14: Herança e polimorfismo">
-      <change afterPath="$PROJECT_DIR$/src/sections/section18/Comparables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section18/DefaultMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section18/entities/BrazilInterestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section18/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section18/entities/InterestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section18/entities/UsaInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/PrintService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/TreeSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/Wildcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/curingas_delimitados/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/curingas_delimitados/Contravariantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/curingas_delimitados/Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/curingas_delimitados/Covariantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/curingas_delimitados/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/curingas_delimitados/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/curingas_delimitados/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/exercise1_set/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/exercise1_set/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/exercise2_set/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/exercise3_map/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/genericos_dellimitados/CalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/genericos_dellimitados/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/genericos_dellimitados/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/hashCodAndEquals/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/hashCodAndEquals/HashCodeAndEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section19/hashCodAndEquals/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +42,8 @@
         <option value="Kotlin Class" />
         <option value="JUnit5 Test Class" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -65,6 +83,7 @@
     "Application.Comparable.executor": "Run",
     "Application.Comparables.executor": "Run",
     "Application.Construtores.executor": "Run",
+    "Application.Copy.executor": "Run",
     "Application.DadosPessoais.executor": "Run",
     "Application.DataHora.executor": "Run",
     "Application.Dates.executor": "Run",
@@ -88,11 +107,14 @@
     "Application.Finally.executor": "Run",
     "Application.ForEach.executor": "Run",
     "Application.Functions.executor": "Run",
+    "Application.Generics.executor": "Run",
+    "Application.HashCodeAndEquals.executor": "Run",
     "Application.LIstsExercises.executor": "Run",
     "Application.Lists.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaiorPosicao.executor": "Run",
     "Application.MaisVelho.executor": "Run",
+    "Application.Maps.executor": "Run",
     "Application.Matriz.executor": "Run",
     "Application.Matriz1.executor": "Run",
     "Application.MediaPares.executor": "Run",
@@ -106,11 +128,14 @@
     "Application.ProblemaSemOrientacaoObjeto.executor": "Run",
     "Application.ProductsExample.executor": "Run",
     "Application.Program.executor": "Run",
+    "Application.Sets.executor": "Run",
     "Application.SomaVetor.executor": "Run",
     "Application.SomaVetores.executor": "Run",
+    "Application.TreeSets.executor": "Run",
     "Application.TryCatch.executor": "Debug",
     "Application.Vetores.executor": "Run",
     "Application.VetoresExample.executor": "Run",
+    "Application.Wildcard.executor": "Run",
     "Application.excercises.estrutura_repetitiva.Exercise1.executor": "Run",
     "Application.excercises.estrutura_repetitiva.Exercise2.executor": "Run",
     "Application.excercises.estrutura_repetitiva.Exercise3.executor": "Run",
@@ -124,6 +149,10 @@
     "Application.sections.section18.exercise.Program.executor": "Run",
     "Application.sections.section18.heranca_mutipla.Program.executor": "Run",
     "Application.sections.section18.solucao_problema.Program.executor": "Run",
+    "Application.sections.section19.Program.executor": "Debug",
+    "Application.sections.section19.exercise1_set.Program.executor": "Run",
+    "Application.sections.section19.exercise2_set.Program.executor": "Run",
+    "Application.sections.section19.exercise3_map.Program.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
@@ -132,7 +161,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/joaoe/Downloads/projects/JAVA/Udemy Java/curso_progamacao",
+    "last_opened_file_path": "C:/Users/joaoe/projects/JAVA/udemy/curso_progamacao",
     "onboarding.tips.debug.path": "C:/Users/joaoe/Downloads/projects/Udemy Java/curso_progamacao/src/Main.java",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
@@ -149,13 +178,13 @@
       <recent name="application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DefaultMethods">
-    <configuration name="DefaultMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section18.DefaultMethods" />
+  <component name="RunManager" selected="Application.sections.section19.exercise3_map.Program">
+    <configuration name="HashCodeAndEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section19.entities.HashCodAndEquals.HashCodeAndEquals" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sections.section18.*" />
+          <option name="PATTERN" value="sections.section19.entities.HashCodAndEquals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +193,11 @@
       </method>
     </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section17.exercise.Program" />
+      <option name="MAIN_CLASS_NAME" value="sections.section19.entities.HashCodAndEquals.Program" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sections.section17.exercise.*" />
+          <option name="PATTERN" value="sections.section19.entities.HashCodAndEquals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sections.section18.exercise.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section18.exercise.Program" />
+    <configuration name="Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section19.Sets" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sections.section18.exercise.*" />
+          <option name="PATTERN" value="sections.section19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sections.section18.heranca_mutipla.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section18.heranca_mutipla.Program" />
+    <configuration name="TreeSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section19.TreeSets" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sections.section18.heranca_mutipla.devices.*" />
+          <option name="PATTERN" value="sections.section19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sections.section18.solucao_problema.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section18.solucao_problema.Program" />
+    <configuration name="sections.section19.exercise3_map.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section19.exercise3_map.Program" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sections.section18.herdar.*" />
+          <option name="PATTERN" value="sections.section19.exercise3_map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DefaultMethods" />
-        <item itemvalue="Application.sections.section18.heranca_mutipla.Program" />
-        <item itemvalue="Application.sections.section18.exercise.Program" />
-        <item itemvalue="Application.sections.section18.solucao_problema.Program" />
-        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.sections.section19.exercise3_map.Program" />
+        <item itemvalue="Application.TreeSets" />
+        <item itemvalue="Application.Sets" />
+        <item itemvalue="Application.sections.section19.Program" />
+        <item itemvalue="Application.HashCodeAndEquals" />
       </list>
     </recent_temporary>
   </component>
