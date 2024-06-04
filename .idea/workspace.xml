@@ -5,30 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49abf3da-2cb0-49a5-a927-1d333ceb9aff" name="Changes" comment="Section 14: Herança e polimorfismo">
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/Generics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/PrintService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/TreeSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/Wildcard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/curingas_delimitados/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/curingas_delimitados/Contravariantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/curingas_delimitados/Copy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/curingas_delimitados/Covariantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/curingas_delimitados/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/curingas_delimitados/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/curingas_delimitados/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/exercise1_set/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/exercise1_set/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/exercise2_set/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/exercise3_map/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/genericos_dellimitados/CalculationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/genericos_dellimitados/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/genericos_dellimitados/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/hashCodAndEquals/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/hashCodAndEquals/HashCodeAndEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section19/hashCodAndEquals/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/Consumers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/MyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/Pipelines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/Predicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/PriceUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/PrimeiraOrdem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/ProductPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/TransparenciaReferencial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/UpperCaseName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/exercise1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/exercise1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/exercise2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section20/exercise2/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +77,7 @@
     "Application.Comparable.executor": "Run",
     "Application.Comparables.executor": "Run",
     "Application.Construtores.executor": "Run",
+    "Application.Consumers.executor": "Run",
     "Application.Copy.executor": "Run",
     "Application.DadosPessoais.executor": "Run",
     "Application.DataHora.executor": "Run",
@@ -125,12 +120,15 @@
     "Application.OutrosTopicos.executor": "Run",
     "Application.POO.executor": "Run",
     "Application.Pensinato.executor": "Run",
+    "Application.Pipelines.executor": "Run",
+    "Application.Predicates.executor": "Run",
     "Application.ProblemaSemOrientacaoObjeto.executor": "Run",
     "Application.ProductsExample.executor": "Run",
     "Application.Program.executor": "Run",
     "Application.Sets.executor": "Run",
     "Application.SomaVetor.executor": "Run",
     "Application.SomaVetores.executor": "Run",
+    "Application.Streams.executor": "Run",
     "Application.TreeSets.executor": "Run",
     "Application.TryCatch.executor": "Debug",
     "Application.Vetores.executor": "Run",
@@ -152,7 +150,10 @@
     "Application.sections.section19.Program.executor": "Debug",
     "Application.sections.section19.exercise1_set.Program.executor": "Run",
     "Application.sections.section19.exercise2_set.Program.executor": "Run",
-    "Application.sections.section19.exercise3_map.Program.executor": "Run",
+    "Application.sections.section19.exercise3_map.Program.executor": "Debug",
+    "Application.sections.section20.Program.executor": "Run",
+    "Application.sections.section20.exercise1.Program.executor": "Run",
+    "Application.sections.section20.exercise2.Program.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
@@ -178,13 +179,13 @@
       <recent name="application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sections.section19.exercise3_map.Program">
-    <configuration name="HashCodeAndEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section19.entities.HashCodAndEquals.HashCodeAndEquals" />
+  <component name="RunManager" selected="Application.sections.section20.exercise2.Program">
+    <configuration name="Pipelines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section20.Pipelines" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sections.section19.entities.HashCodAndEquals.*" />
+          <option name="PATTERN" value="sections.section20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +194,11 @@
       </method>
     </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section19.entities.HashCodAndEquals.Program" />
+      <option name="MAIN_CLASS_NAME" value="sections.section20.Program" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sections.section19.entities.HashCodAndEquals.*" />
+          <option name="PATTERN" value="sections.section20.TransparenciaReferencial" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section19.Sets" />
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section20.Streams" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sections.section19.*" />
+          <option name="PATTERN" value="sections.section20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section19.TreeSets" />
+    <configuration name="sections.section20.exercise1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section20.exercise1.Program" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sections.section19.*" />
+          <option name="PATTERN" value="sections.section20.exercise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sections.section19.exercise3_map.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section19.exercise3_map.Program" />
+    <configuration name="sections.section20.exercise2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section20.exercise2.Program" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sections.section19.exercise3_map.*" />
+          <option name="PATTERN" value="sections.section20.exercise2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sections.section19.exercise3_map.Program" />
-        <item itemvalue="Application.TreeSets" />
-        <item itemvalue="Application.Sets" />
-        <item itemvalue="Application.sections.section19.Program" />
-        <item itemvalue="Application.HashCodeAndEquals" />
+        <item itemvalue="Application.sections.section20.exercise2.Program" />
+        <item itemvalue="Application.sections.section20.exercise1.Program" />
+        <item itemvalue="Application.Pipelines" />
+        <item itemvalue="Application.Streams" />
+        <item itemvalue="Application.sections.section20.Program" />
       </list>
     </recent_temporary>
   </component>
