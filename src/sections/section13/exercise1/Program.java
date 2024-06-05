@@ -8,12 +8,10 @@ import sections.section13.exercise1.entities.enums.WorkerLevel;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Program {
   public static void main(String[] args) throws ParseException {
-    Locale.setDefault(Locale.US);
     Scanner sc = new Scanner(System.in);
     SimpleDateFormat format = new SimpleDateFormat("dd/MM/yyyy");
 

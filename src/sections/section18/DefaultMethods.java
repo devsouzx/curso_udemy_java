@@ -1,15 +1,12 @@
 package sections.section18;
 
-import sections.section18.entities.BrazilInterestService;
 import sections.section18.entities.InterestService;
 import sections.section18.entities.UsaInterestService;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class DefaultMethods {
   public static void main(String[] args) {
-    Locale.setDefault(Locale.US);
     Scanner sc = new Scanner(System.in);
 
     System.out.print("Amount: ");

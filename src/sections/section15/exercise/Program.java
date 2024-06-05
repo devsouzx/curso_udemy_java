@@ -3,12 +3,10 @@ package sections.section15.exercise;
 import sections.section15.exercise.entities.Account;
 import sections.section15.exercise.exceptions.BusinessException;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Program {
   public static void main(String[] args) {
-    Locale.setDefault(Locale.US);
     Scanner sc = new Scanner(System.in);
 
     System.out.println("Enter account data");

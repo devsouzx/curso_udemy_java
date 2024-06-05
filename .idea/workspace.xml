@@ -5,25 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49abf3da-2cb0-49a5-a927-1d333ceb9aff" name="Changes" comment="Section 14: Herança e polimorfismo">
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/Consumers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/MyComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/Pipelines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/Predicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/PriceUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/PrimeiraOrdem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/ProductPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/Streams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/TransparenciaReferencial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/UpperCaseName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/exercise1/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/exercise1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/exercise2/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section20/exercise2/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section10/LIstsExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section10/LIstsExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section10/Vetores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section10/Vetores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section10/VetoresExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section10/VetoresExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section11/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section11/Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section13/exercise1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section13/exercise1/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section13/exercise3/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section13/exercise3/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section14/exercise1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section14/exercise1/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section14/exercise2/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section14/exercise2/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section14/exercise3/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section14/exercise3/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section14/exercise4/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section14/exercise4/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section15/exercise/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section15/exercise/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section17/exercise/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section17/exercise/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section18/DefaultMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section18/DefaultMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section18/exercise/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section18/exercise/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section18/solucao_problema/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section18/solucao_problema/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/EntradaDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/EntradaDeDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/EstruturasCondicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/EstruturasCondicionais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/ExercicioDeFixacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/ExercicioDeFixacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/MembrosEstaticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/MembrosEstaticos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/application/POO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/application/POO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/application/ProblemaSemOrientacaoObjeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/application/ProblemaSemOrientacaoObjeto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/application/ProductsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/application/ProductsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/MembrosEstaticosExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/MembrosEstaticosExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_condicional/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_condicional/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_condicional/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_condicional/Exercise7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_condicional/Exercise8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_condicional/Exercise8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_repetitiva/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_repetitiva/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_repetitiva/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_repetitiva/Exercise7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_sequencial/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_sequencial/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_sequencial/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_sequencial/Exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_sequencial/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_sequencial/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_sequencial/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/estrutura_sequencial/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/poo/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/poo/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/poo/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/poo/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/poo/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/poo/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/vetores/AbaixoDaMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/vetores/AbaixoDaMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/vetores/Alturas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/vetores/Alturas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/vetores/Aprovados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/vetores/Aprovados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/vetores/DadosPessoais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/vetores/DadosPessoais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/vetores/MaiorPosicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/vetores/MaiorPosicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/vetores/MediaPares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/vetores/MediaPares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/section1a9/excercises/vetores/SomaVetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/section1a9/excercises/vetores/SomaVetor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +190,7 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/joaoe/projects/JAVA/udemy/curso_progamacao",
     "onboarding.tips.debug.path": "C:/Users/joaoe/Downloads/projects/Udemy Java/curso_progamacao/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "project.propGUI"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -179,7 +205,7 @@
       <recent name="application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sections.section20.exercise2.Program">
+  <component name="RunManager" selected="Application.Vetores">
     <configuration name="Pipelines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sections.section20.Pipelines" />
       <module name="curso_java_udemy" />
@@ -193,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section20.Program" />
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section20.Streams" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sections.section20.TransparenciaReferencial" />
+          <option name="PATTERN" value="sections.section20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section20.Streams" />
+    <configuration name="Vetores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section10.Vetores" />
       <module name="curso_java_udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sections.section20.*" />
+          <option name="PATTERN" value="sections.section10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,11 +273,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Vetores" />
         <item itemvalue="Application.sections.section20.exercise2.Program" />
         <item itemvalue="Application.sections.section20.exercise1.Program" />
         <item itemvalue="Application.Pipelines" />
         <item itemvalue="Application.Streams" />
-        <item itemvalue="Application.sections.section20.Program" />
       </list>
     </recent_temporary>
   </component>

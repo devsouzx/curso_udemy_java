@@ -2,12 +2,10 @@ package sections.section1a9;
 
 import sections.section1a9.entities.Calculator;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class MembrosEstaticos {
   public static void main(String[] args) {
-    Locale.setDefault(Locale.US);
     Scanner sc = new Scanner(System.in);
 
     System.out.print("Enter radius: ");

@@ -1,13 +1,10 @@
 package sections.section1a9.excercises;
 
 import sections.section1a9.entities.Account;
-
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Bank {
   public static void main(String[] args) {
-    Locale.setDefault(Locale.US);
     Scanner sc = new Scanner(System.in);
     Account account;
 

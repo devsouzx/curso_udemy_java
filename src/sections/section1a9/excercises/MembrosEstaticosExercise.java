@@ -2,12 +2,10 @@ package sections.section1a9.excercises;
 
 import sections.section1a9.entities.CurrencyDollar;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class MembrosEstaticosExercise {
   public static void main(String[] args) {
-    Locale.setDefault(Locale.US);
     Scanner sc = new Scanner(System.in);
 
     System.out.printf("what is the dollar price: %.2f%n", CurrencyDollar.dollar);

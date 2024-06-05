@@ -1,11 +1,9 @@
 package sections.section1a9;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class EstruturasCondicionais {
   public static void main(String[] args) {
-    Locale.setDefault(Locale.US);
     Scanner sc = new Scanner(System.in);
 //    int hour;
 //

@@ -2,12 +2,10 @@ package sections.section11;
 
 import java.time.Duration;
 import java.time.LocalDate;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Exercise {
   public static void main(String[] args) {
-    Locale.setDefault(Locale.US);
     Scanner sc = new Scanner(System.in);
 
     System.out.print("What day were you born? (1-31) ");

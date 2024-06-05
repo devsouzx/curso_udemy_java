@@ -2,12 +2,10 @@ package sections.section1a9.excercises.poo;
 
 import sections.section1a9.entities.Employee;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Exercise2 {
   public static void main(String[] args) {
-    Locale.setDefault(Locale.US);
     Scanner sc = new Scanner(System.in);
 
     Employee employee = new Employee();

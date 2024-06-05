@@ -1,7 +1,5 @@
 package sections.section1a9;
 
-import java.util.Locale;
-
 public class Main {
   public static void main(String[] args) {
     int age = 17;
@@ -22,7 +20,6 @@ public class Main {
     */
     System.out.println(height + " + " + height1);
     System.out.printf("%.4f%n", sum);
-    Locale.setDefault(Locale.US);
     System.out.printf("%.4f%n", sum);
     System.out.printf("Result = %.2f metros%n", sum);
     String nome = "maria";

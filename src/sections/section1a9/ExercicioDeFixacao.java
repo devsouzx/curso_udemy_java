@@ -1,7 +1,5 @@
 package sections.section1a9;
 
-import java.util.Locale;
-
 public class ExercicioDeFixacao {
   public static void main(String[] args) {
     String product1 = "Computer";
@@ -21,7 +19,6 @@ public class ExercicioDeFixacao {
     System.out.println("Record: " + age + " years old, code " + code + " and gender: " + gender);
     System.out.printf("Measue with eight decimal places: %.8f%n", measure);
     System.out.printf("Rouded (three decimal places): %.3f%n", measure);
-    Locale.setDefault(Locale.US);
     System.out.printf("US decimal point: %.3f%n", measure);
 
     double x, y, z, area;

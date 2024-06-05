@@ -6,17 +6,12 @@ import sections.section18.exercise.services.ContractService;
 import sections.section18.exercise.services.PayPalService;
 
 import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import java.time.format.DateTimeFormatterBuilder;
-import java.util.Date;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Program {
   public static void main(String[] args) throws ParseException {
-    Locale.setDefault(Locale.US);
     Scanner sc = new Scanner(System.in);
     DateTimeFormatter fmt = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 
