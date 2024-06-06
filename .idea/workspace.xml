@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49abf3da-2cb0-49a5-a927-1d333ceb9aff" name="Changes" comment="Section 14: Herança e polimorfismo">
-      <change afterPath="$PROJECT_DIR$/src/sections/section21/Update.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/section21/Transitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +115,7 @@
     "Application.SomaVetor.executor": "Run",
     "Application.SomaVetores.executor": "Run",
     "Application.Streams.executor": "Run",
+    "Application.Transitions.executor": "Run",
     "Application.TreeSets.executor": "Run",
     "Application.TryCatch.executor": "Debug",
     "Application.Update.executor": "Run",
@@ -173,7 +175,7 @@
       <recent name="application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Delete">
+  <component name="RunManager" selected="Application.Transaction">
     <configuration name="Delete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sections.section21.Delete" />
       <module name="curso_java_udemy" />
@@ -213,6 +215,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Transaction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sections.section21.Transaction" />
+      <module name="curso_java_udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sections.section21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Update" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sections.section21.Update" />
       <module name="curso_java_udemy" />
@@ -226,26 +241,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vetores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sections.section10.Vetores" />
-      <module name="curso_java_udemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sections.section10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Transaction" />
         <item itemvalue="Application.Delete" />
         <item itemvalue="Application.Insert" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Update" />
-        <item itemvalue="Application.Vetores" />
       </list>
     </recent_temporary>
   </component>
