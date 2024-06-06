@@ -6,13 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="49abf3da-2cb0-49a5-a927-1d333ceb9aff" name="Changes" comment="Section 14: Herança e polimorfismo">
       <change afterPath="$PROJECT_DIR$/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section21/Delete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section21/Insert.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/sections/section21/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section21/Update.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/sections/section21/db/DB.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/sections/section21/db/DbException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/section21/db/DbIntegrityException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/curso_java_udemy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/curso_java_udemy.iml" afterDir="false" />
     </list>
@@ -182,7 +178,7 @@
       <recent name="application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.Insert">
     <configuration name="Delete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sections.section21.Delete" />
       <module name="curso_java_udemy" />
@@ -250,10 +246,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Insert" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Delete" />
         <item itemvalue="Application.Update" />
-        <item itemvalue="Application.Insert" />
         <item itemvalue="Application.Vetores" />
       </list>
     </recent_temporary>
